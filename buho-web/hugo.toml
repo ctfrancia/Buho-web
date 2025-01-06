@@ -1,0 +1,6 @@
+baseURL = 'https://Buho-api.github.io'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'docuapi'
+[[module.imports]]
+path = "github.com/bep/docuapi/v2"
